@@ -2,17 +2,9 @@ body {
     background-color: #DEE3E2;
 }
 
-hr {
-    background-color: #DEE3E2;
-    border-color: grey;
-    border-style: dotted none none none;
-    height: 0;
-    width: 10%;
-    border-width: 8px;
-}
 
 h1 {
-    color: blue;
+    color: #211A4C;
 }
 
 h2 {
@@ -22,3 +14,13 @@ h2 {
 h3 {
     color: #211A4C;
 }
+
+hr {
+    background-color: #DEE3E2;
+    border-color: grey;
+    border-style: dotted none none none;
+    height: 0;
+    width: 10%;
+    border-width: 8px;
+}
+
