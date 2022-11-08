@@ -3,6 +3,9 @@ body {
     font-family: sans-serif;
 }
 
+img {
+    border-radius: 100%;
+}
 
 h1 {
     color: #211A4C;
